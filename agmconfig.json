@@ -1,0 +1,6 @@
+ {
+    "userName": "unit@TwoYongeStreet.com",
+    "password": "Password1!",
+    "ExpectedData": true,
+    "url": "https://demo.virtualupon.co/ui/auth/login" 
+  }
